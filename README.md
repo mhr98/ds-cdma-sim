@@ -7,4 +7,5 @@ It also simulates the BER of the system under various channel conditions:
 - AWGN with Multipath fading and Rake receiver  
 
 It shows the advantage of using CDMA in mitigating the effects of the multipath channel, and multiplexing many users at the same time.
+
 The code is devided various parts and you can run the required part usinh Ctrl+Enter.
