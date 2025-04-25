@@ -1,4 +1,4 @@
-# Simulating the BER of DS-CDMA system with various channel types
+# Simulating the BER of DS-CDMA system under different channel types
 This project simulates the Bit Error Rate (BER) performance of a Direct Sequence Code Division Multiple Access (DS-CDMA) system under different channel types.  
 It first defines an m-sequence spreading code that was generated using LFSR, then evaluates the statistical characteristics of the codes.  
 It also simulates the BER of the system under various channel conditions:
